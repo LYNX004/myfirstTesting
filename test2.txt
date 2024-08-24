@@ -1,3 +1,3 @@
 Branch connect to main
-askinf for pull request
+asking for pull request
 status req
